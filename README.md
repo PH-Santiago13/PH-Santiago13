@@ -4,7 +4,7 @@
   Comentários em HTML como este não aparecem na página publicada.
 -->
 
-<h1 align="center">Paulo Henrique Santiago</h1>
+<h1 align="center">Paulo Henrique Santiago da Silva</h1>
 
 <!-- EDITAR 1: esta linha é o seu posicionamento (o mesmo dos seus repositórios), não o cargo formal. Não escreva "Analista de Dados na <empresa>". -->
 <p align="center">
