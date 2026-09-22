@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 <!--
   README DO PERFIL — repositório PH-Santiago13/PH-Santiago13
   Procure por "EDITAR" para achar os 4 pontos que você deve conferir antes de publicar.
